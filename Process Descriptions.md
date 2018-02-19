@@ -1,10 +1,14 @@
 # Process Overview
+This document outlines our (v1.0) processes for work prioritisation, assignment and management.
+The intention over time is for the process to be implemented in service now and for the process to converge on the SAFE processes for programme and solution backlogs http://www.scaledagileframework.com/program-and-solution-backlogs/ - the following should be read in that context.
+
 We use the following process to manage work in the team.
 
 # Sources of Demand
+Items on the service backlog are from two sources - eHealth SLA work and NSS internal work. Items can be either New demand, BAU or service improvement. NSS work done under the DTS programme should come in as prioritised by the digital demand stream and as such can be added to the service backlog. eHealth SLA work can
 
-# Service Backlog
-Senior staff meet fortnightly to discuss and agree items on the service backlog. Items on the service baclog are 
+# Service Backlog - Funneling and analysis
+Senior staff meet fortnightly to discuss current and new demand and agree items on the service backlog. This process acts as the funnel into the service backlog. Where work comes from a legitimate source of demand but additional analysis is required, an analysis task is added to the backlog for prioritisation. The backlog contains an item for each project, service currently in scope for hte team. Each item is classified as 
 
 
 # PI Backlog
