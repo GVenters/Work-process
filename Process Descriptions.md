@@ -19,20 +19,21 @@ Items in the PI backlog are
 
 # Tags
 Tags are used to categorise items on the lists.
+These are filtered to allow for measureent of effort by category. For example, items may be tagged as new demand, bau and service improvement. 
 The following tags are in (V1) use
 
 ### Labels
 
-*Security👮🔐
-*KM and DocMgmnt 📙📓
-*Infrastructure🏗
-*Governance🤴
-*Digital development📳
-*Sensitive 🤞💩
-*Mnt and Management🚜
-*New Service Request
-*Service Improvement - CSI 🦄🦄
-*Unaccounted for query 💀
+* Security👮🔐
+* KM and DocMgmnt 📙📓
+* Infrastructure🏗
+* Governance🤴
+* Digital development📳
+* Sensitive 🤞💩
+* Mnt and Management🚜
+* New Service Request
+* Service Improvement - CSI 🦄🦄
+* Unaccounted for query 💀
 
 
 # Points
