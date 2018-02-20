@@ -1,8 +1,9 @@
-# Process Overview
+#Introduction
 This document outlines our (v1.0) processes for work prioritisation, assignment and management.
-The intention over time is for the process to be implemented in service now and for the process to converge on the SAFE processes for programme and solution backlogs http://www.scaledagileframework.com/program-and-solution-backlogs/ - the following should be read in that context.
+The intention over time is for the process to be implemented on the ServiceNow platform and for further convergence on scaled agile processes for programme and solution backlogs ( http://www.scaledagileframework.com/program-and-solution-backlogs/ ) - the following should be read in that context.
 
-We use the following process to manage work in the team. Work is surfaced on a two Kanban boards, a master backlog, showing at a  for all work currently in train 
+# Process Overview
+We use the following process to manage work in the team. Work is surfaced on two Kanban boards, the master backlog, showing all work currently in train, the current sprint backog, showing work for the current sprint. The service backlog contains items that are larger in scope and scale (analogous to epics). The process aims to triage work and break it down in scale into chunks which are deliverable within a single sprint. The aim is to maintain a reasonable and steady delivery progress across the wide range of activities currently being undertaken across consultancy, development and hosting. 
 
 # Sources of Demand
 Items on the service backlog are from two sources - eHealth SLA work and NSS internal work. Items can be either New demand, BAU or service improvement. NSS work done under the DTS programme should come in as prioritised by the digital demand stream and as such can be added to the service backlog without further analysis (though will still need to be prioritised as part of the backlog refinement process). eHealth SLA work can come through as new business agreed by the steering group or as fulfillment of existing agreed services.
