@@ -9,7 +9,9 @@ Work is surfaced on a series of Kanban boards,
 * the service backlog, showing all work currently in train and 
 * the current sprint backog, showing work for the current sprint
 * future sprint backlogs showing work scheduled for forthcoming sprints in a PI
+
 As sprints are completed, the boards representing them are archived and new ones created.
+![Process Kanban](/Process%20Kanban.png)
 
 The service backlog kanban is used as the overall basket of items to be worked on and contains three main columns:
 * the master backlog column 
