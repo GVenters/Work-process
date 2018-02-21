@@ -11,6 +11,9 @@ Items on the service backlog are from two sources - eHealth SLA work and NSS int
 # Service Backlog - Funneling and analysis
 Senior staff meet fortnightly to discuss current and new demand and agree items on the service backlog. This process acts as the funnel into the service backlog. Where work comes from a legitimate source of demand but additional analysis is required, an analysis task is added to the backlog for prioritisation. The backlog contains an item for each project, service currently in scope for the team. Each item is classified as 
 
+![GitHub Logo](/images/logo.png)
+
+
 # PI Backlog
 The PI bakclog cosnsits ot items brokendown from the service backlog into items deliverable over the course of a 12 week programme increment.
 We are currently experimenting with the idea of breaking PIs into two-phases of 6 weeks each; PIa and PIb to support greater flexibility in dealing with new demand coming on to the service backlog. (an example would be responding to new threats).
