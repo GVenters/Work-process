@@ -32,15 +32,15 @@ The following tags are in (V1) use
 
 ### Labels
 
-* Security👮🔐
-* KM and DocMgmnt 📙📓
+* Security👮
+* KM and DocMgmnt 📙
 * Infrastructure🏗
 * Governance🤴
 * Digital development📳
-* Sensitive 🤞💩
+* Sensitive 🤞
 * Mnt and Management🚜
 * New Service Request
-* Service Improvement - CSI 🦄🦄
+* Service Improvement - CSI 🦄
 * Unaccounted for query 💀
 
 
