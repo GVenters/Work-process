@@ -32,10 +32,13 @@ Generally, work that is on the service are larger in scale representing collecti
 The PI backlog consists ot items broken down from the service backlog into items deliverable over the course of a 12 week programme increment.
 We are currently experimenting with the idea of breaking PIs into two-phases of 6 weeks each; PIa and PIb to support greater flexibility in dealing with new demand coming on to the service backlog. (an example would be responding to new threats).
 
+![Sprint Backlog](/Sprint%20Backlog%20img1.png)
 
 # Sprint Backlog
 Items in the PI backlog are 
-![Sprint Backlog](/Sprint%20Backlog%20img1.png)
+
+
+![Refinement process](/backlog%20refinement.gif)
 
 # Meetings
 
