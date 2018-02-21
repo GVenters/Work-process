@@ -11,7 +11,7 @@ Items on the service backlog are from two sources - eHealth SLA work and NSS int
 # Service Backlog - Funneling and analysis
 Senior staff meet fortnightly to discuss current and new demand and agree items on the service backlog. This process acts as the funnel into the service backlog. Where work comes from a legitimate source of demand but additional analysis is required, an analysis task is added to the backlog for prioritisation. The backlog contains an item for each project, service currently in scope for the team. Each item is classified as 
 
-![GitHub Logo](/images/logo.png)
+![Service Backlog](/Service%20Backlog%20img1.png)
 
 
 # PI Backlog
@@ -21,6 +21,7 @@ We are currently experimenting with the idea of breaking PIs into two-phases of 
 
 # Sprint Backlog
 Items in the PI backlog are 
+![Sprint Backlog](/Sprint%20Backlog%20img1.png)
 
 # Meetings
 
