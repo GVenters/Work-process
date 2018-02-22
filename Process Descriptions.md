@@ -17,7 +17,9 @@ The service backlog kanban is used as the overall basket of items to be worked o
 * the master backlog column 
 * The PI column - a list of items that can be delivered over a PI,
 * A Sprint column - a list of items that should be deliverable within a sprint. 
-Items in the three columns are analogous to Epics, Features and Stories resectively in size and scale. Further columns are added to list done work and work that has been parked (for work that is under consideration but awaiting further analysis or formal go-ahead).
+Items in the three columns are generally analogous to Epics, Features and Stories respectively in size and scale (but may be of any type in the SAFE requirements model http://www.scaledagileframework.com/safe-requirements-model/). Two additional columns are used to list work done and work that has been parked (for work that is under consideration but awaiting further analysis or formal go-ahead).
+Items added to the service backlog may be of any type in the SAFE requirements model http://www.scaledagileframework.com/safe-requirements-model/
+
 ![Service Backlog](/Service%20Backlog%20img1.png)
 
 # Sources of Demand
@@ -30,12 +32,12 @@ Generally, work that is on the service are larger in scale representing collecti
 
 # PI Backlog
 The PI backlog consists ot items broken down from the service backlog into items deliverable over the course of a 12 week programme increment.
-We are currently experimenting with the idea of breaking PIs into two-phases of 6 weeks each; PIa and PIb to support greater flexibility in dealing with new demand coming on to the service backlog. (an example would be responding to new threats).
+We are currently experimenting with the idea of breaking PIs into two-phases of 6 weeks each; PIa and PIb to support greater flexibility in dealing with new demand coming on to the service backlog. (an example would be responding to new security threats).
 
 ![Sprint Backlog](/Sprint%20Backlog%20img1.png)
 
 # Sprint Backlog
-Items in the PI backlog are 
+Items in the PI backlog are assessed 
 
 
 ![Refinement process](/backlog%20refinement.gif)
