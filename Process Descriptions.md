@@ -81,4 +81,6 @@ Points are assigned at the sprint level. We have agreed in the team to assign 2 
 # Common Tasks
 Certain tasks are seen as common to multiple projects. We are developing a set of standard checklists to reflect the common steps to be carried out. As we develop the approach we will create more "template tasks" to embed good-practice in work delivery.
 
+![Checklist Templates](/Process%20Checklist2.png)
+
 
