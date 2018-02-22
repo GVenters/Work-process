@@ -37,12 +37,12 @@ We are currently experimenting with the idea of breaking PIs into two-phases of 
 ![Sprint Backlog](/Sprint%20Backlog%20img1.png)
 
 # Sprint Backlog
-Items in the PI backlog are assessed 
-
+Items in the PI backlog are assessed and further decomposed into sprintable stories. Depending on the priority of items on the PI backlog, this refinement may take place over several sprints. (The principle used is for additional detail and refinement to be done as needed and as close to intended delivery as possible, to avoid losing agility). Sprintable stories are moved on to individual sprints for completion.
 
 ![Refinement process](/backlog%20refinement.gif)
 
 # Meetings
+
 
 # Tags
 Tags are used to categorise items on the lists.
@@ -66,3 +66,8 @@ The following tags are in (V1) use
 # Points
 Points are assigned at the sprint level. We have agreed in the team to assign 2 points per day worked so for a team of 8 a sprint is worth 160 points (assumes no holidays)
  
+#  Undone Items
+1. Unfinished/UnDone items are put back on the service backlog for reassessment 
+2. The backlog refinement reassesses and re-prioritises the backlog. Typically unfinished items end up at the top, but not always. 
+3. Items may be resized where work has been done to reflect what will go on the next sprint.
+(Unfinished items are not included the velocity calculation of the current sprint.)
