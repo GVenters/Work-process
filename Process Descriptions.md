@@ -41,8 +41,8 @@ Items in the PI backlog are assessed and further decomposed into sprintable stor
 
 ![Refinement process](/backlog%20refinement.gif)
 
-# Meetings
-
+# Running Sprints
+Items which are distributed into sprints are controlled by a normal sprint process - sprint plans, daily standups, and sprint retrospectives. The team can pick items of the sprint backlog opportunisically.
 
 # Tags
 Tags are used to categorise items on the lists.
@@ -64,7 +64,7 @@ The following tags are in (V1) use
 
 
 # Points
-Points are assigned at the sprint level. We have agreed in the team to assign 2 points per day worked so for a team of 8 a sprint is worth 160 points (assumes no holidays)
+Points are assigned at the sprint level. We have agreed in the team to assign 2 points per day worked so for a team of 8 a sprint is worth 160 points (assumes no holidays). 
  
 #  Undone Items
 1. Unfinished/UnDone items are put back on the service backlog for reassessment 
